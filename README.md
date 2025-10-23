@@ -9,3 +9,4 @@ Repository that contains code, and data for input parameters that contain the st
 
 **plug-in code and data/tc_multiplication.py**: Recovery model to multiply SF+ composition data with Recovery Transfer coefficients data (plug-in code and data/input_data/Transfer coefficients_SLASH.xlsx)
 
+DOI: 10.5281/zenodo.15697528
